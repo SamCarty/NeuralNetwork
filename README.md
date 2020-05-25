@@ -36,4 +36,4 @@ It is probable that more epochs would reduce the error rate further, however the
 ## Further Research
 This NN displayed great results considering the network has only one hidden layer. Adding additional hidden layers would likely reduce the error rate further, and the inclusion of more sophisticated dimensionality reduction measures would improve the training speed of the model. 
 
-Finally, [convolutional NNs](http://yann.lecun.com/exdb/mnist/): seem to perform particularly well on the MNIST problem by breaking the images down into smaller regions, reducing the number of dimensions in the data.
+Finally, [convolutional NNs](http://yann.lecun.com/exdb/mnist/) seem to perform particularly well on the MNIST problem by breaking the images down into smaller regions, reducing the number of dimensions in the data.
